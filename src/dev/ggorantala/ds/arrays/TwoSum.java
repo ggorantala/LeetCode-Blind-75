@@ -4,9 +4,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 
 /**
- * This class contains various assignments for demonstrating and creating arrays (such as
- * declaration and initialization). This class also contains print statements and two for-loops
- * that explain how to iterate through arrays
+ * Coding Interview Problem
  *
  * @author ggorantala
  * @url https://leetcode.com/problems/two-sum/description/
